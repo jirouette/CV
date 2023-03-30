@@ -1,0 +1,104 @@
+{
+    "document": {
+        "title": "CV de jr",
+        "author": "Jean-Rémy OUDIN",
+        "subject": "M'embaucher",
+        "keywords": "cv,dev,jr,cto,freshmile,chapatiz,game,gamedev,php,laravel,python,django,node,nextjs,typescript,react,vuejs,haxe,debian,docker,canards"
+    },
+    "side": [
+        {
+            "title": "Informations\npersonnelles",
+            "type": "fields",
+            "data": [
+                {"field": "Nom", "content": "Jean-Rémy Oudin"},
+                {"field": "Email", "content": "moi@jr.software", "url": "mailto:moi@jr.software"},
+                {"field": "Site web", "content": "jr.software", "url": "https://jr.software/"},
+                {"field": "GitHub", "content": "jirouette", "url": "https://github.com/jirouette"},
+                {"field": "LinkedIn", "content": "Jean-Rémy Oudin", "url": "https://www.linkedin.com/in/jean-r%C3%A9my-oudin/"},
+                {"field": "Instagram 🦆", "content": "jirouette_coin", "url": "https://instagram.com/jirouette_coin/"}
+            ]
+        },
+        {
+            "title": "Langues",
+            "type": "list",
+            "data": ["Français", "Anglais"]
+        },
+        {
+            "title": "Centres d'intérêt",
+            "type": "list",
+            "data": ["La mobilité électrique", "Jeux vidéos", "Yu-Gi-Oh!", "Le dev", "Chercher des canards"]
+        }
+    ],
+    "title": {
+        "name": "Jean-Rémy Oudin",
+        "title": "Développeur"
+    },
+    "profile": {
+        "title": "Profil",
+        "description": "Développeur passionné depuis plus de 10ans, je suis également à l'aise à l'idée de gérer des projets techniques. Je suis plutôt spécialisé sur les applicatifs serveurs mais reste polyvalent et je suis donc capable d'intervenir sur des technologies clientes. Je suis à la recherche d'un poste de développeur ou lead dev sur Lyon pour commencer à partir du 2mai. "
+    },
+    "pro": {
+        "title": "Expériences professionnelles",
+        "jobs": [
+            {
+                "title": "Directeur technique",
+                "company": "Freshmile",
+                "duration": "2016-2022",
+                "description": "Freshmile est le leader indépendant français de la supervision de bornes de recharge, jusqu'à son rachat par REXEL en 2021. J'ai eu pour mission d'en concevoir le projet technologique de A à Z avec mon équipe. Du système IoT capable de connecter des dizaines de milliers de points de charge, à la plateforme de supervision B2B, jusqu'aux applications webs et mobiles B2C."
+            },
+            {
+                "title": "Développeur",
+                "company": "Freshmile",
+                "duration": "2013-2016",
+                "description": "À l'époque, unique développeur de l'entreprise, j'ai eu pour mission de concevoir plusieurs prototypes avant de me concentrer sur la supervision de bornes de recharge. "
+            },
+            {
+                "title": "Développeur Freelance",
+                "company": "Chapatiz",
+                "duration": "2011-2013",
+                "description": "Site de jeu & discussion en ligne pour adolescents, j'ai conçu en tant que développeur freelance plusieurs jeux pour ce client, dont Bacteria. À partir d'assets fournis, je devais intégrer à l'applicatif serveur ainsi qu'au client web (Flash) des fonctionnalités. Allant du jeu de plateau au jeu en équipe, un système de match-making, une boutique de monnaie virtuelle et d'autres améliorations."
+            }
+        ]
+    },
+    "skills": {
+        "title": "Compétences",
+        "data": [
+            {"field": "Serveur", "content": [
+                {"technology": "PHP", "subtechnology": "Laravel"},
+                {"technology": "Python", "subtechnology": "Django"},
+                {"technology": "Node", "subtechnology": "Next.js, AdonisJS"}
+            ]},
+            {"field": "Client", "content": [
+                {"technology": "TypeScript", "subtechnology": "React, Vue.js, PixiJS"},
+                {"technology": "Haxe", "subtechnology": "OpenFL"},
+                {"technology": "CSS", "subtechnology": "Bulma"}
+            ]},
+            {"field": "OS", "content": [
+                {"technology": "Debian", "subtechnology": "Ubuntu"}
+            ]},
+            {"field": "Database", "content": [
+                {"technology": "MariaDB", "subtechnology": "MySQL"},
+                {"technology": "SQLite"},
+                {"technology": "Redis"},
+                {"technology": "MongoDB"},
+                {"technology": "ElasticSearch"},
+                {"technology": "PostgreSQL"}
+            ]},
+            {"field": "Autres", "content": [
+                {"technology": "Docker", "subtechnology": "Swarm"},
+                {"technology": "Cordova", "subtechnology": "Android"},
+                {"technology": "git"}
+            ]}
+        ]
+    },
+    "schools": {
+        "title": "Formations",
+        "data": [
+            {
+                "diploma": "DUT Informatique",
+                "school": "IUT de Belfort-Montbéliard",
+                "duration": "2011-2013"
+            }
+        ]
+    }
+}
