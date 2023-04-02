@@ -35,7 +35,7 @@
     },
     "profile": {
         "title": "Profil",
-        "description": "Développeur passionné depuis plus de 10ans, je suis également à l'aise à l'idée de gérer des projets techniques. Je suis plutôt spécialisé sur les applicatifs serveurs mais reste polyvalent et je suis donc capable d'intervenir sur des technologies clientes. Je suis à la recherche d'un poste de développeur ou lead dev sur Lyon pour commencer à partir du 2mai. "
+        "description": "Développeur passionné depuis mon adolescence, je suis doté d'une expérience solide en développement d'applications. J'ai une connaissance approfondie des technologies serveur, notamment en matière de conception, de développement et de déploiement d'applications. Je suis aussi compétent dans d'autres domaines comme par exemple le développement frontend. J'ai pu acquérir une expérience significative dans la résolution de problèmes complexes et la mise en place de bonnes pratiques de développement. Je suis constamment en quête de nouvelles technologies et méthodologies pour m'améliorer et proposer des solutions innovantes. \n\nJe suis disponible pour un poste de développeur ou lead dev sur Lyon. "
     },
     "pro": {
         "title": "Expériences professionnelles",
@@ -44,19 +44,22 @@
                 "title": "Directeur technique",
                 "company": "Freshmile",
                 "duration": "2016-2022",
-                "description": "Freshmile est le leader indépendant français de la supervision de bornes de recharge, jusqu'à son rachat par REXEL en 2021. J'ai eu pour mission d'en concevoir le projet technologique de A à Z avec mon équipe. Du système IoT capable de connecter des dizaines de milliers de points de charge, à la plateforme de supervision B2B, jusqu'aux applications webs et mobiles B2C."
+                "description": "Freshmile est le leader indépendant français de la supervision de bornes de recharge, jusqu'à son rachat par REXEL en 2021. À la tête d'une équipe de 10 développeurs, j'ai eu pour mission de concevoir le projet technologique de A à Z de l'entreprise. \n\n• Un système IoT capable de connecter des dizaines de milliers points de charge ;\n• Une plateforme de supervision à destination des clients B2B propriétaires des bornes ;\n• Des applications web et mobiles pour permettre aux clients B2C d'utiliser le service de recharge de véhicule électrique. \n\nFreshmile est désormais un acteur majeur du marché européen du véhicule électrique, son système est stable et l'équipe IT continue de croître. ",
+                "technologies": ["PHP", "Laravel", "Vue.js", "React-Native", "Docker", "MariaDB", "Redis", "ElasticSearch"]
             },
             {
                 "title": "Développeur",
                 "company": "Freshmile",
                 "duration": "2013-2016",
-                "description": "À l'époque, unique développeur de l'entreprise, j'ai eu pour mission de concevoir plusieurs prototypes avant de me concentrer sur la supervision de bornes de recharge. "
+                "description": "À l'époque, unique développeur de l'entreprise, j'ai eu pour mission de concevoir plusieurs prototypes avant de nous concentrer sur la supervision de bornes de recharge. \n\n• Une application de tracking GPS afin d'estimer la consommation d'un véhicule électrique, pour prédire les temps de recharge nécessaire ou l'électrocompatibilité de l'utilisateur ;\n• Un système de gestion de flottes de véhicules d'entreprise ; \n• Un premier prototype de système de supervision de bornes de recharge qui finira par devenir le projet principal. ",
+                "technologies": ["Python", "jQuery", "Cordova", "PostgreSQL", "MongoDB", "PHP"]
             },
             {
                 "title": "Développeur Freelance",
                 "company": "Chapatiz",
                 "duration": "2011-2013",
-                "description": "Site de jeu & discussion en ligne pour adolescents, j'ai conçu en tant que développeur freelance plusieurs jeux pour ce client, dont Bacteria. À partir d'assets fournis, je devais intégrer à l'applicatif serveur ainsi qu'au client web (Flash) des fonctionnalités. Allant du jeu de plateau au jeu en équipe, un système de match-making, une boutique de monnaie virtuelle et d'autres améliorations."
+                "description": "Site de jeu & discussion en ligne pour adolescents, j'ai conçu en tant que développeur freelance plusieurs jeux pour ce client, dont Bacteria. À partir d'assets fournis, je devais intégrer à l'applicatif serveur ainsi qu'au client web (Flash) des fonctionnalités. \n\n• Un système de match-making flexible selon les types de jeux et le nombre de joueurs ;\n• Un jeu de plateau à 2 joueurs ; \n• Un jeu \"Capture the Flag\" en équipe ;\n• Une boutique de bonus via monnaie virtuelle ;\n• Ajout d'interactions sur la carte du jeu. ",
+                "technologies": ["Haxe", "Flash", "NekoVM"]
             }
         ]
     },
@@ -88,6 +91,14 @@
                 {"technology": "Docker", "subtechnology": "Swarm"},
                 {"technology": "Cordova", "subtechnology": "Android"},
                 {"technology": "git"}
+            ]},
+            {"field": "Soft skills", "content": [
+                {"technology": "Autonomie"},
+                {"technology": "Veille"},
+                {"technology": "Management"},
+                {"technology": "Flexibilité"},
+                {"technology": "Travail en équipe"},
+                {"technology": "SCRUM"}
             ]}
         ]
     },

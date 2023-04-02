@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text } from '@react-pdf/renderer';
+import JobTechnologies from './JobTechnologies';
 
 const styles = StyleSheet.create({
   title: {
@@ -24,7 +25,7 @@ const styles = StyleSheet.create({
     fontWeight: 400,
     fontSize: "6px",
     color: "#1C1E31",
-    marginBottom: "12px"
+    marginBottom: "6px"
   }
 });
 
@@ -33,9 +34,10 @@ export interface JobProps {
     company: string;
     duration: string;
     description: string;
+    technologies: Array<string>;
 }
 
-export default function Job({ title, company, duration, description }: JobProps) {
+export default function Job({ title, company, duration, description, technologies }: JobProps) {
   return (
     <>
         <Text style={styles.title}>{title}</Text>
@@ -43,6 +45,7 @@ export default function Job({ title, company, duration, description }: JobProps)
             {company}, {duration}
         </Text>
         <Text style={styles.description}>{description}</Text>
+        <JobTechnologies technologies={technologies} />
     </>
   );
 }

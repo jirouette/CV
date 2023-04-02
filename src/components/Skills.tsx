@@ -10,8 +10,7 @@ const styles = StyleSheet.create({
     fontWeight: 700,
     fontStyle: "normal",
     color: "#F95A55",
-    marginTop: "32px",
-    marginBottom: "16px"
+    marginBottom: "8px"
   },
   skills: {
     flexDirection: "row",

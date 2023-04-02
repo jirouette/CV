@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
     fontWeight: 700,
     fontStyle: "normal",
     color: "#F95A55",
-    marginTop: "80px"
+    marginTop: "40px"
   },
   title: {
     fontFamily: "Roboto Mono",

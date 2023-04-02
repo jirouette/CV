@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from '@react-pdf/renderer';
 
 const styles = StyleSheet.create({
     skill: {
-        marginBottom: "11px",
+        marginBottom: "10.5px",
         flexDirection: "row"
     },
     skills: {

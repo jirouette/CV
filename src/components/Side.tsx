@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
   side: {
     flexBasis: '201px',
     paddingLeft: '39px',
-    paddingTop: '14px'
+    paddingTop: '7px'
   },
   logo: {
     width: '121px',
