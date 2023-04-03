@@ -11,7 +11,7 @@
             "type": "fields",
             "data": [
                 {"field": "Nom", "content": "Jean-Rémy Oudin"},
-                {"field": "Email", "content": "moi@jr.software", "url": "mailto:moi@jr.software"},
+                {"field": "Email", "content": "jeanremy.oudin@gmail.com", "url": "mailto:jeanremy.oudin@gmail.com"},
                 {"field": "Site web", "content": "jr.software", "url": "https://jr.software/"},
                 {"field": "GitHub", "content": "jirouette", "url": "https://github.com/jirouette"},
                 {"field": "LinkedIn", "content": "Jean-Rémy Oudin", "url": "https://www.linkedin.com/in/jean-r%C3%A9my-oudin/"},
